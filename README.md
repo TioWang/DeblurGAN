@@ -19,7 +19,7 @@ Download weights from [Dropbox](https://www.dropbox.com/sh/8oqo8eeq4zb75hw/AADcW
 
 Put the weights into 
 ```bash
-/.checkpoints/experiment_name
+./checkpoints/experiment_name/
 ```
 To test a model put your blurry images into a folder and run:
 ```bash
